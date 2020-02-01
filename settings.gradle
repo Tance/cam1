@@ -1,0 +1,2 @@
+include ':app', ':sopcast-sdk'
+rootProject.name='cam1'
